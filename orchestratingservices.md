@@ -11,7 +11,7 @@ This goes hand in hand with the concept of smart endpoints, dumb pipes that is d
 ## Proxy
 
 Another common apporach is to wrap the business flow in its own service. 
-The proxy orchestrates the interaction between the microservices like shown in the below picture:
+The proxy orchestrates the interaction between the services like shown in the below picture:
 
 ![proxy.png](proxy.png)
 

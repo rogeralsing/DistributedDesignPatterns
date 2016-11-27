@@ -42,7 +42,6 @@ Pros:
 
 Cons:
 
-* Harder to deal with scale out, more knowledge needed
 * Harder to deal with failover, more knowledge needed
 
 
