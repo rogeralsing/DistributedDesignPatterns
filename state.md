@@ -71,5 +71,5 @@ Cons:
 
 * Favors Request Response communication
 * Hard to leverage data locality
-* No concurrency guarantees, multiple actor/grain activation possible
+* Weaker concurrency guarantees, multiple actor/grain activation possible
 
