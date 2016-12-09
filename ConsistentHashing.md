@@ -1,8 +1,6 @@
 # Consistent Hashing
 
 Consistent Hashing is often used to create a form of affinity between consumers of information and the information itself.
-This makes it possible to 
-
 There are many reasons why this is useful, but two common examples are:
 
 ## Scalable Clusters
