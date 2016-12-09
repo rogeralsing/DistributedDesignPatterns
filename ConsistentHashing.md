@@ -12,8 +12,7 @@ It is also used to enable linear scalability of Microsoft Orleans.
 In all of the cases mentioned above, you take an identifier, be it your document Key or the Orleans Grain ID, and then hash it.
 Once you have the hash, you can make a lookup over a so called Hash Ring to find out where in your cluster this peice of data belongs.
 This way, the system do not need to synchronize or communicate in order to find a given identifier/key.
-
-> Some communication is however needed when new nodes **join** or **leave** the cluster.
+Some communication is however needed when new nodes **join** or **leave** the cluster.
 
 ## Controlling concurrency
 
