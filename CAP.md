@@ -23,3 +23,6 @@ Either your system is "Consistent and Partition Tolerant", or, it is "Available 
 It should also be noted that the tradeoff here is only relevant during a network partition.
 If the systems are connected and can communicate, you can of-course be both consistent and available.
 
+Relevant reading:
+* [https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+* [https://codahale.com/you-cant-sacrifice-partition-tolerance/](https://codahale.com/you-cant-sacrifice-partition-tolerance/)
