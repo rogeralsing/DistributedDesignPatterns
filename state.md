@@ -18,7 +18,7 @@ This is ofcourse not a plausible way forward in this scenario as a considerable 
 Instead, we can build our system as a stateful service.
 This means that all or atleast some of the state is already loaded and available to use.
 
-Stateful services can be build using different state strategies.
+Stateful services can be build using different strategies to manage state:
 
 ### Actors
 
