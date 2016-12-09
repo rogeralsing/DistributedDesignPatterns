@@ -23,7 +23,7 @@ This prevents race conditions between writes as writes to a specific entity beco
 
 The two approaches can be combined in order to scale both up and out.
 
-It is fairly easy to implement this manually, but if possible, use a library or framework or product that does this for you.
+It is fairly easy to implement this manually, but if possible, use a library, framework or product that does this for you.
 
 Relevant reading:
 
